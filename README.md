@@ -48,8 +48,7 @@ assert(headers.has("content-type"));
 ## filterHeadersKeys
 
 Returns a new `Headers` with all entries of the given headers except the ones
-that have a key(header name or field name) that does not match the given
-predicate.
+that have a key(field name) that does not match the given predicate.
 
 ```ts
 import { filterHeadersKeys } from "https://deno.land/x/headers_utils@$VERSION/filter_keys.ts";

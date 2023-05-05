@@ -1,7 +1,7 @@
 // Copyright 2023-latest the httpland authors. All rights reserved. MIT license.
 // This module is browser compatible.
 
-/** Returns a new {@link Headers} with all entries of the given headers except the ones that have a key(header name or field name) that does not match the given predicate.
+/** Returns a new {@link Headers} with all entries of the given headers except the ones that have a key(field name) that does not match the given predicate.
  *
  * @example
  * ```ts
