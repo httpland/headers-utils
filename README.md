@@ -10,7 +10,7 @@
 
 Headers utility collection.
 
-## equalHeaders
+## equalsHeaders
 
 Check two `Headers` field name and field value equality.
 
