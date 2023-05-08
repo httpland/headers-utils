@@ -122,6 +122,10 @@ date: Wed, 21 Oct 2015 07:28:00 GMT`,
 );
 ```
 
+## API
+
+All APIs can be found in the [deno doc](https://deno.land/x/headers_utils?doc).
+
 ## License
 
 Copyright © 2023-present [httpland](https://github.com/httpland).
